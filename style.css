@@ -1,0 +1,55 @@
+
+h1{
+    font-family: cursive;
+}
+
+h2{
+    font-family:sans-serif;
+    font-style: italic;
+}
+.Mainheading{
+    font-size:xx-large;
+   color: red;
+}
+p{
+    color:rgb(0, 228, 228);
+    font-family:initial;
+    
+}
+
+.item{
+    
+    font-family: cursive;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.header{
+    background-color:aqua;
+    font-style:initial;
+    display: flex;
+    justify-content:center;
+}
+
+.site-description{
+    background-color:rgb(236, 70, 134);
+     display: flex;
+    flex-direction: column;
+    justify-content:center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+body{
+    background-color:rgb(0, 0, 0);
+    
+}
+
+
+
